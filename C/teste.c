@@ -3,8 +3,8 @@
 
 int main(){
 
-    printf("bom dia\n");
-    printf("boa noite\n");
+    double x = 10.45324;
+    printf("%.2lf\n",x);
 
     return 0;
 }
